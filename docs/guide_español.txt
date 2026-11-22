@@ -1,0 +1,1 @@
+Guía del proyecto con caracteres Unicode: á, é, í, ó, ú, ñ.
